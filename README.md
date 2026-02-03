@@ -3,7 +3,7 @@
 ### Focus: Nigeria → Northern Regions → Maiduguri  
 
 **Research for:**  
-Hon. Justice Hafsat Baffa  
+Hon. Justice Hafsatu Bappah  
 Chief Judge, Federal High Court, Maiduguri
 
 **Research with:** [ALmax](https://almax-git.github.io/Ali_Mustapha_Shettima) 
