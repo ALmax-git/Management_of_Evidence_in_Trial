@@ -3,11 +3,11 @@
 ### Focus: Nigeria → Northern Regions → Maiduguri  
 
 **Research for:**  
-Hon. Justice Hafsatu Bappah  
-Chief Judge, Federal High Court, Maiduguri
+> **Hon. Justice Hafsatu Bappah**  
+*Chief Judge, Federal High Court, Maiduguri*
 
 **Research with:** [ALmax](https://almax-git.github.io/Ali_Mustapha_Shettima) 
-
+**Start Date** 20th January 2026
 ---
 
 ## 📌 Project Overview
