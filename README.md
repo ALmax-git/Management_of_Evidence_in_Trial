@@ -38,6 +38,9 @@ This research is designed to contribute directly to judicial reform, policy deve
 6. What legal frameworks govern evidence management in Nigeria?
    
 ---
+## Legal frameworks govern evidence management in Nigeria:
+>Evidence management in Nigeria is primarily governed by the
+Evidence Act 2011 (amended in 2023), which dictates the admissibility, relevance, and weight of evidence in all judicial proceedings. Key frameworks include the Administration of Criminal Justice Act (ACJA) 2015, court rules, and constitutional provisions regarding fair hearing
 
 ## 🗂️ Repository Structure
 
@@ -50,7 +53,8 @@ This research is designed to contribute directly to judicial reform, policy deve
 │   ├── ethics_clearance.md
 │   └── stakeholder_map.md
 ├── literature_review/
-├── methodology/
+├── [Methodology](./methodology)/
+│   └── [Research Design](./methodulogy/research_design.md)
 ├── fieldwork/
 ├── analysis/
 ├── findings/
