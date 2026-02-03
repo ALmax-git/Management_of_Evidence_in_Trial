@@ -7,8 +7,11 @@
 *Chief Judge, Federal High Court, Maiduguri*
 
 **Research with:** [ALmax](https://almax-git.github.io/Ali_Mustapha_Shettima) 
+
 **Start Date** 20th January 2026
+
 **Current Status:** 🟢 **In Progress**  
+
 **Last Updated:** February 2026
 ---
 
