@@ -44,6 +44,19 @@ Evidence Act 2011 (amended in 2023), which dictates the admissibility, relevance
 
 ## 🗂️ Repository Structure
 
+- [ROADMAP](./ROADMAP.md)
+- [Research Proposal](./proposal/research_proposal.md)
+- [Ethics Clearance](./proposal/ethics_clearance.md)
+- [Stakeholder Map](./proposal/stakeholder_map.md)
+- [Methodology](./methodology/)
+  - [Research Design](./methodology/research_design.md)
+- [Fieldwork](./fieldwork/)
+- [Analysis](./analysis/)
+- [Findings](./findings/)
+- [Recommendations](./recommendations/)
+- [Drafts](./drafts/)
+- [Deliverables](./deliverables/)
+
 ```text
 .
 ├── ROADMAP.md
@@ -53,8 +66,8 @@ Evidence Act 2011 (amended in 2023), which dictates the admissibility, relevance
 │   ├── ethics_clearance.md
 │   └── stakeholder_map.md
 ├── literature_review/
-├── [Methodology](./methodology)/
-│   └── [Research Design](./methodulogy/research_design.md)
+├── methodology/
+│   └── research_design
 ├── fieldwork/
 ├── analysis/
 ├── findings/
