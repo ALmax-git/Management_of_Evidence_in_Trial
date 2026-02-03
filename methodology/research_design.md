@@ -237,4 +237,4 @@ This integrated design therefore provides the most robust foundation for evidenc
 
 ___
 
-[<- Go Back](../README.md)
+[Go Back](../README.md)
