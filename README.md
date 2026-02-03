@@ -6,7 +6,7 @@
 Hon. Justice Hafsat Baffa  
 Chief Judge, Federal High Court, Maiduguri
 
-**Research Lead:** [ALmax](https://almax-git.github.io/Ali_Mustapha_Shettima) 
+**Research with:** [ALmax](https://almax-git.github.io/Ali_Mustapha_Shettima) 
 
 ---
 
